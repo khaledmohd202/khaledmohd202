@@ -23,7 +23,7 @@
 
 
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/khaledmohd202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -39,10 +39,10 @@
   </a>
 </p>
 <br>
-  <img alt="Coding" width="400" style="margin-left: 20px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+  <img alt="Coding" width="1000" style="margin-left: 20px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 </div>
 <br clear="all"/>
-🛠️ Tech Stack
+<h2 align="start">🛠️ Tech Stack</h2>
 <div align="center">
 <table>
   <tr>
@@ -105,7 +105,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2000&pause=500&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+Cross-Platform+Apps+with+Flutter;🎨+Crafting+Beautiful+%26+Responsive+UIs;⚡+Clean+Code+%26+High+Performance" alt="Tech Stack Description" />
 </div>
 <br>
-📊 GitHub Stats
+<h2 align="start">📊 GitHub Stats</h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khaledmohd202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
