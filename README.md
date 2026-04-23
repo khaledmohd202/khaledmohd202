@@ -1,24 +1,29 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Khaled+Mohammad;Flutter+Developer+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Hey+there+%F0%9F%91%8B+I'm+Khaled+Mohammad;Flutter+Developer+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </h1>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=khaledmohd202.khaledmohd202" />
 </div>
 <br>
 <div>
-👨‍💻 About Me
+  
+## 👨‍💻 About Me
 
-🔭 Flutter Developer with 2+ years of experience, worked with most essential features in modern business apps
-🎓 Graduated from Bani-Suef University, Faculty of Computers and Artificial Intelligence
-📦 I have 20+ public repositories on GitHub
-🌱 Passionate about Clean Code & Performance Optimization
-💬 Ask me about Flutter, Dart, Clean Architecture, SOLID
-📫 Reach me at khaledmohd202@gmail.com
+- 🔭 Flutter Developer with 2+ years of experience, worked with most essential features in modern business apps
+- 🎓 Graduated from Bani-Suef University, Faculty of Computers and Artificial Intelligence
+- 📦 I have 20+ public repositories on GitHub
+- 🌱 Passionate about Clean Code & Performance Optimization
+- 💬 Ask me about Flutter, Dart, Clean Architecture, SOLID
+- 📫 Reach me at khaledmohd202@gmail.com
 
-🌐 Connect With Me
+
+
+### 🌐 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/khaledmohd202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
