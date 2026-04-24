@@ -24,20 +24,33 @@
 
 
 ## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/khaledmohd202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://wa.me/201060040675" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
-  </a>
-  <a href="mailto:khaledmohd202@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
+<table align="center">
+  <tr>
+    <td>
   <a href="https://codeforces.com/profile/khaledmohd202" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" />
+    <img src="https://img.icons8.com/?size=60&id=O8J7KKXJVNOR&format=png&color=000000" width="70" height="70" />
   </a>
-</p>
+</td>
+    <td width="40"></td>
+    <td>
+      <a href="https://wa.me/201060040675" target="_blank">
+        <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="70" height="70" />
+      </a>
+    </td>
+    <td width="40"></td>
+    <td>
+      <a href="mailto:khaledmohd202@gmail.com" target="_blank">
+        <img src="https://cdn.simpleicons.org/gmail/D14836" width="70" height="70" />
+      </a>
+    </td>
+    <td width="40"></td>
+    <td>
+  <a href="https://www.linkedin.com/in/khaledmohd202/" target="_blank">
+    <img src="https://img.icons8.com/color/60/linkedin.png" width="70" height="70" />
+  </a>
+</td>
+  </tr>
+</table>
 <br>
   <img alt="Coding" width="1000" style="margin-left: 20px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 </div>
