@@ -27,10 +27,10 @@
 <table align="center">
   <tr>
     <td>
-  <a href="https://codeforces.com/profile/khaledmohd202" target="_blank">
-    <img src="https://img.icons8.com/?size=60&id=O8J7KKXJVNOR&format=png&color=000000" width="70" height="70" />
-  </a>
-</td>
+      <a href="https://www.linkedin.com/in/khaledmohd202/" target="_blank">
+        <img src="https://img.icons8.com/color/60/linkedin.png" width="70" height="70" />
+      </a>
+    </td>
     <td width="40"></td>
     <td>
       <a href="https://wa.me/201060040675" target="_blank">
@@ -40,15 +40,15 @@
     <td width="40"></td>
     <td>
       <a href="mailto:khaledmohd202@gmail.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/gmail/D14836" width="70" height="70" />
+        <img src="https://img.icons8.com/color/60/gmail.png" width="70" height="70" />
       </a>
     </td>
     <td width="40"></td>
     <td>
-  <a href="https://www.linkedin.com/in/khaledmohd202/" target="_blank">
-    <img src="https://img.icons8.com/color/60/linkedin.png" width="70" height="70" />
-  </a>
-</td>
+      <a href="https://codeforces.com/profile/khaledmohd202" target="_blank">
+        <img src="./Codeforces_logo.svg" width="70" height="70" />
+      </a>
+    </td>
   </tr>
 </table>
 <br>
